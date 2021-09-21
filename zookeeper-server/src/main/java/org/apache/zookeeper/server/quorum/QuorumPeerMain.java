@@ -84,6 +84,8 @@ public class QuorumPeerMain {
      * To start the replicated server specify the configuration file name on
      * the command line.
      * @param args path to the configfile
+     *
+     * zookeeper 服务启动入口
      */
     public static void main(String[] args) {
         QuorumPeerMain main = new QuorumPeerMain();

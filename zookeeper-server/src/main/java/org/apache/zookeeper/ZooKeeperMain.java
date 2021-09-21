@@ -288,6 +288,12 @@ public class ZooKeeperMain {
 
     }
 
+    /**
+     * zookeeper 客户端启动入口
+     * @param args
+     * @throws IOException
+     * @throws InterruptedException
+     */
     public static void main(String[] args) throws IOException, InterruptedException {
         ZooKeeperMain main = new ZooKeeperMain(args);
         main.run();
