@@ -18,6 +18,14 @@ public interface Info {
 }
 ```
 5. 启动zk服务端: org.apache.zookeeper.server.quorum.QuorumPeerMain#main(), 参数为zoo.conf配置文件所在位置
-6. 启动zk客户端: org.apache.zookeeper.ZooKeeperMain#main(), 参数为 -server localhost:2181
+
+![image-20210921153546339](https://raw.githubusercontent.com/telzhou618/images/main/img01/image-20210921153546339.png)
+
+5. 启动zk客户端: org.apache.zookeeper.ZooKeeperMain#main(), 参数为 -server localhost:2181
+
+![image-20210921153619005](https://raw.githubusercontent.com/telzhou618/images/main/img01/image-20210921153619005.png)
+
+![image-20210921153802642](https://raw.githubusercontent.com/telzhou618/images/main/img01/image-20210921153802642.png)
 
 ## 常见问题
+
