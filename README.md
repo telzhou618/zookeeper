@@ -25,7 +25,7 @@ public interface Info {
 
 ![image-20210921153619005](https://raw.githubusercontent.com/telzhou618/images/main/img01/image-20210921153619005.png)
 
-![image-20210921153802642](https://raw.githubusercontent.com/telzhou618/images/main/img01/image-20210921153802642.png)
+6. 在 zk 客户端执行几个测试命令验证，OK
 
-## 常见问题
+![image-20210921153802642](https://raw.githubusercontent.com/telzhou618/images/main/img01/image-20210921153802642.png)
 
